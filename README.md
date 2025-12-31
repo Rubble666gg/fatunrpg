@@ -49,7 +49,7 @@ Telegram Inline-кнопки
 Каждый класс имеет уникальный атакующий и защитный навык.
 Description (English)
 
-RPG Battle Bot is a turn-based RPG Telegram bot written in Python.
+Turn-based RPG Telegram bot written in Python.
 Players create characters by choosing a race and a class, then fight in tactical turn-based battles using attacks, defense, and unique abilities.
 
 The project features a full combat system with critical hits, status effects, stuns, healing, and resurrection mechanics.
